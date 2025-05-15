@@ -16,7 +16,8 @@ body {
 h1 {
   font-size: 3em;
   margin-bottom: 50px;
-  font-family: Arial, sans-serif;
+  font-family: "Gill Sans", "Gill Sans MT",
+    Calibri, "Trebuchet MS", sans-serif;
   text-align: center;
   color: rosybrown;
   -webkit-text-stroke: 2px black;
